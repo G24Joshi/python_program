@@ -1,0 +1,11 @@
+eno=int(input('Enter Employee Number: '))
+ename=input('Enter Employee Name: ')
+esal=float(input('Enter Employ Salary: '))
+eadd=input('Enter Employee Address: ')
+marridornot=bool(int(input('is Employee Married [True|False]: ')))
+
+print('Employ Number:' ,eno)
+print('Employ name' ,ename)
+print('Employ Salary' ,esal)
+print('Employ Address' ,eadd)
+print('Employ Married or not' ,marridornot)
